@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
+## About this project
+
+This is a web application developed using Angular 15 which let users to register for Gym.
+All the CRUD operations are applicable in this project.
+Upon registering User's data is saved in the backend datasource.
+Functionalities includes registering, updating, deleting users and retrieving all users.
+Json-Server is used as the backend and datasource.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
